@@ -47,12 +47,9 @@
 - **EAD:** £1.5 billion (Portfolio Size x Average Loan Size)
 
 ### Current Provisions:
-\[
-\text{Expected Loss (EL)} = \text{PD} \times \text{LGD} \times \text{EAD}
-\]
-\[
-\text{EL} = 2\% \times 40\% \times £1.5 \text{ billion} = £12 \text{ million}
-\]
+- **Expected Loss (EL):**
+  - EL = PD × LGD × EAD
+  - EL = 2% × 40% × £1.5 billion = £12 million
 
 - **Current Provisions:** £12 million (set aside to cover expected losses).
 
@@ -63,36 +60,20 @@
 
 ### Revised Portfolio:
 - **New Portfolio Size:** 8,500 loans (a 15% reduction)
-- **New EAD:** £1.275 billion (8,500 loans x £150,000 average loan size)
+- **New EAD:** £1.275 billion (8,500 loans × £150,000 average loan size)
 
 ### Revised Provisions:
-\[
-\text{New EL} = 1.5\% \times 40\% \times £1.275 \text{ billion} = £7.65 \text{ million}
-\]
+- **New Expected Loss (EL):**
+  - EL = 1.5% × 40% × £1.275 billion = £7.65 million
 
 - **New Provisions:** £7.65 million (a reduction of £4.35 million from the current scenario).
 
 ## Business Impact:
 - **Reduction in Loan Approvals:** 1,500 fewer loans (10,000 - 8,500).
 - **Revenue Impact:** Assume an interest margin of 2% on loans.
-  \[
-  \text{Lost Revenue} = 1,500 \text{ loans} \times £150,000 \times 2\% \times 30 \text{ years} = £13.5 \text{ million over the life of the loans}
-  \]
-- **Annualized Impact:**
-  \[
-  \text{Lost Revenue} \approx £450,000 \text{ per year}
-  \]
+  - Lost Revenue = 1,500 loans × £150,000 × 2% × 30 years = £13.5 million over the life of the loans
+- **Annualized Impact:** 
+  - Lost Revenue ≈ £450,000 per year
 
 ## Risk-Reward Trade-Off Analysis:
-- **Provisions Reduction:** £4.35 million less in provisions, improving the bank’s risk profile.
-- **Revenue Reduction:** £450,000 annually, or £13.5 million over the life of the loans.
-
-## Conclusion and Recommendations:
-- **Risk Reduction:** The reduction in provisions (from £12 million to £7.65 million) suggests a significant decrease in risk.
-- **Business Impact:** The loss of £450,000 per year in revenue needs to be weighed against the risk reduction.
-- **Recommendation:** If the bank prioritizes risk management in a volatile economic environment, the increase in cut-off is justified. However, if maintaining business volume is critical, further analysis might be needed to find a balanced cut-off level.
-
-# Executive Summary (for the Risk Paper):
-- **Objective:** To evaluate the impact of increasing the scorecard cut-off from 600 to 650 on the bank’s mortgage portfolio.
-- **Findings:** The increase in cut-off leads to a reduction in the Probability of Default (PD) from 2% to 1.5%, resulting in £4.35 million less in provisions. However, this also results in a 15% reduction in loan approvals, potentially decreasing revenue by £450,000 annually.
-- **Recommendation:** Given the improved risk profile and reduced provisions, the increased cut-off is recommended, particularly in light of economic uncertainty.
+- **Provisions Reduction:** £4.35 million less in provisions, improving
