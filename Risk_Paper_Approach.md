@@ -76,4 +76,15 @@
   - Lost Revenue ≈ £450,000 per year
 
 ## Risk-Reward Trade-Off Analysis:
-- **Provisions Reduction:** £4.35 million less in provisions, improving
+- **Provisions Reduction:** £4.35 million less in provisions, improving the bank’s risk profile.
+- **Revenue Reduction:** £450,000 annually, or £13.5 million over the life of the loans.
+
+## Conclusion and Recommendations:
+- **Risk Reduction:** The reduction in provisions (from £12 million to £7.65 million) suggests a significant decrease in risk.
+- **Business Impact:** The loss of £450,000 per year in revenue needs to be weighed against the risk reduction.
+- **Recommendation:** If the bank prioritizes risk management in a volatile economic environment, the increase in cut-off is justified. However, if maintaining business volume is critical, further analysis might be needed to find a balanced cut-off level.
+
+# Executive Summary (for the Risk Paper):
+- **Objective:** To evaluate the impact of increasing the scorecard cut-off from 600 to 650 on the bank’s mortgage portfolio.
+- **Findings:** The increase in cut-off leads to a reduction in the Probability of Default (PD) from 2% to 1.5%, resulting in £4.35 million less in provisions. However, this also results in a 15% reduction in loan approvals, potentially decreasing revenue by £450,000 annually.
+- **Recommendation:** Given the improved risk profile and reduced provisions, the increased cut-off is recommended, particularly in light of economic uncertainty.
